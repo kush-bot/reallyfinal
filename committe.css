@@ -1,0 +1,72 @@
+.home{
+    width: 100%!important;
+    height:111vh!important;
+}
+
+.numbers{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar-nav{
+    background: transparent!important;
+}
+.dropdown-menu{
+    color: red;
+}
+
+.navbar-nav a{
+    color: black;
+    font-size: 20px;
+    padding-right: 20px!important;
+    top:0;
+
+}
+.text{
+    align-items: center;
+    margin-top: 22%;
+    color: white;
+}
+
+.footer{
+    height: 30%!important;
+    width: 96%;
+    margin-left: 2%;
+    padding:10px;
+}
+.commite{
+    text-align: center;
+    background-color:rgb(189, 201, 224);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 75px;
+    padding-bottom:75px ;
+}
+.main{
+    border: 1px solid black;
+    width:60%;
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+    border-radius: 45px;
+    color: white;
+    background-color: rgb(210, 188, 21);
+    margin-top: 3%;
+    margin-left: 300px;
+    
+}
+.patrons
+{
+    margin-top:10px;
+    margin-bottom:25px;
+}
+.hi
+{
+    margin-top: 30px;
+}
+.chair{
+    margin-top:10px;
+    margin-bottom: 25px;
+}
+c1{
+    color:red;
+}
